@@ -1,0 +1,44 @@
+{
+  "tradingName": "Coca-Cola India",
+  "organizationChildRelationship": [
+    {
+      "tradingName": "Account 1",
+      "product": { "name": "180 Plans" }
+    }
+  ],
+  "organizationChildRelationship": [
+    {
+      "tradingName": "Coca-Cola Maharashtra",
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Account 2",
+          "product": { "name": "400 Plans" }
+        },
+        {
+          "tradingName": "Account 3",
+          "product": { "name": "250 Plans" }
+        }
+      ]
+    },
+    {
+      "tradingName": "Coca-Cola Karnataka",
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Account 4",
+          "product": { "name": "150 Plans" }
+        }
+      ],
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Coca-Cola Bangalore",
+          "organizationChildRelationship": [
+            {
+              "tradingName": "Account 5",
+              "product": { "name": "325 Plans" }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
