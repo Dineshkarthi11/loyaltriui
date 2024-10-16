@@ -1,0 +1,37 @@
+const privilageLanguageArabic={
+    User_Privileges:"امتيازات المستخدم",
+    Roles_Management:"إدارة الأدوار",
+    Attendance_Access:"وصول الحضور",
+    Access_Settings:"إعدادات الوصول",
+    Create_New_Role:"إنشاء دور",
+    Role_List:"قائمة الأدوار",
+    Users_List:"قائمة المستخدمين",
+    User_Privileges_description:" تخصيص مساحة العمل الخاصة بك، وجعلها أكثر متعة وراحة في العمل!",
+    Features_Modules:"الميزات / الوحدات",
+    Features_Modules_description:"هنا يمكنك تمكين أو تعطيل المستخدم للحصول على الترخيص.",
+    Users:"المستخدمين",
+    Users_description:" هنا يمكنك تمكين أو تعطيل المستخدم للحصول على الترخيص.",
+    Search:"يبحث",
+    Payroll:"كشف رواتب",
+    Payroll_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. نونك .",
+    Performance:"أداء",
+    Performance_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. نونك .",
+    Leave:"يترك",
+    Leave_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. نونك .",
+    VR_Analytics:"تحليلات الواقع الافتراضي",
+    VR_Analytics_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. نونك .",
+    Augment_Reality:"الواقع المعزز",
+    Augment_Reality_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. نونك .",
+    Recruitment:"توظيف",
+    Recruitment_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. نونك .",
+    Company:"شركة",
+    Company_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. نونك .",
+    Attendance:"حضور",
+    Attendance_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. نونك .",
+    Activated:"مفعل",
+    Deactivated:"معطل",
+    
+}
+
+
+export default privilageLanguageArabic

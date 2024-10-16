@@ -1,0 +1,37 @@
+const privilegesLanguage={
+    User_Privileges:"User Privileges",
+    Roles_Management:"Roles Management",
+    Attendance_Access:"Attendance Access",
+    Access_Settings:"Access Settings",
+    Create_New_Role:"Create New Role",
+    Role_List:"Role List",
+    Users_List:"Users List",
+    User_Privileges_description:" Customizing your workspace, make it more enjoyable and comfortable to work!",
+    Features_Modules:"Features / Modules",
+    Features_Modules_description:"In here you can enable or disable the user for authorization.",
+    Users:"Users",
+    Users_description:" In here you can enable or disable the user for authorization.",
+    Search:"Search",
+    Payroll:"Payroll",
+    Payroll_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc .",
+    Performance:"Performance",
+    Performance_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc .",
+    Leave:"Leave",
+    Leave_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc .",
+    VR_Analytics:"VR Analytics",
+    VR_Analytics_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc .",
+    Augment_Reality:"Augment Reality",
+    Augment_Reality_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc .",
+    Recruitment:"Recruitment",
+    Recruitment_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc .",
+    Company:"Company",
+    Company_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc .",
+    Attendance:"Attendance",
+    Attendance_description:"Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc .",
+    Activated:"Activated",
+    Deactivated:"Deactivated",
+    
+
+}
+
+export default privilegesLanguage
